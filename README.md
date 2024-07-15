@@ -1,4 +1,4 @@
-#Welcome to Sala Cloud School's GitHub Repository!
+Welcome to Sala Cloud School's GitHub Repository!
 This repository serves as a central hub for all Sala Cloud School's code, projects, and learning materials. Whether you're a student, instructor, or collaborator, you've come to the right place!
 
 We leverage GitHub to:
